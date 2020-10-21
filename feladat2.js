@@ -10,4 +10,6 @@ for ( i = 0; i < 100; i++)
 	console.log('buzz');}
 	oszt5 = true;}
 	else if ( oszt3 === true &&& oszt5 === true) { 
-	console.log('FizzBuzz');
+	console.log('FizzBuzz');}
+	else 
+	console.log(i);
